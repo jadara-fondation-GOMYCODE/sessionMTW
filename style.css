@@ -1,0 +1,12 @@
+form{
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 1rem;
+}
+
+table{
+    margin: auto;
+}
